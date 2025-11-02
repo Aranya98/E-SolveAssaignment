@@ -1,4 +1,11 @@
 Debt Collection Dashboard
+
+Login credentials---
+
+Admin: Username: admin@demo.com, Password: admin
+Agent: Username: agent@demo.com, Password: agent
+
+
 Overview---
 
 The Debt Collection Dashboard is a modular, fully responsive web application designed to simulate real-world debt management workflows. It demonstrates a complete frontend architecture that integrates state management, role-based routing, mock APIs, analytics visualization, and performance optimization.
